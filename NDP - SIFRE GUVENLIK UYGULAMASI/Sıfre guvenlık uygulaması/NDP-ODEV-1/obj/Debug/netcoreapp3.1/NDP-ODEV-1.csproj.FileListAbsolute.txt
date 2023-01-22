@@ -1,0 +1,28 @@
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.exe
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.deps.json
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.runtimeconfig.json
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.runtimeconfig.dev.json
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.dll
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.pdb
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.csproj.AssemblyReference.cache
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.AssemblyInfoInputs.cache
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.AssemblyInfo.cs
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.dll
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.pdb
+C:\Users\osman\source\repos\NDP-ODEV-1\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.genruntimeconfig.cache
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.exe
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.deps.json
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.runtimeconfig.json
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.runtimeconfig.dev.json
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.dll
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\bin\Debug\netcoreapp3.1\NDP-ODEV-1.pdb
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.AssemblyInfoInputs.cache
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.AssemblyInfo.cs
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.dll
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.pdb
+C:\Users\osman\Desktop\NDP-ODEV-1\NDP-ODEV-1--VISUAL STUDIO\NDP-ODEV-1\obj\Debug\netcoreapp3.1\NDP-ODEV-1.genruntimeconfig.cache

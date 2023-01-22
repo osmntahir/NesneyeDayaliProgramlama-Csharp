@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NDP-ODEV-1/1.0.0": {
+        "runtime": {
+          "NDP-ODEV-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NDP-ODEV-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

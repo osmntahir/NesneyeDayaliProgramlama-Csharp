@@ -1,0 +1,16 @@
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\bin\Debug\netcoreapp3.1\NDP-ODEV-2.exe
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\bin\Debug\netcoreapp3.1\NDP-ODEV-2.deps.json
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\bin\Debug\netcoreapp3.1\NDP-ODEV-2.runtimeconfig.json
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\bin\Debug\netcoreapp3.1\NDP-ODEV-2.runtimeconfig.dev.json
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\bin\Debug\netcoreapp3.1\NDP-ODEV-2.dll
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\bin\Debug\netcoreapp3.1\NDP-ODEV-2.pdb
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP_ODEV_2.Form1.resources
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.csproj.GenerateResource.cache
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.AssemblyInfoInputs.cache
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.AssemblyInfo.cs
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.dll
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.pdb
+C:\Users\osman\Desktop\C# UYGULAMALAR\NDP-ODEV-2\obj\Debug\netcoreapp3.1\NDP-ODEV-2.genruntimeconfig.cache
